@@ -1,0 +1,1 @@
+[16-Jun-2016 10:22:20 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'ziikfor'@'localhost' (using password: YES) in /home/ziikfor1/public_html/administrador/php/config.php on line 2

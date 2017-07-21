@@ -1,0 +1,2 @@
+[10-Nov-2016 15:00:36 America/Chicago] PHP Warning:  Division by zero in /home/ziikfor1/public_html/administrador/notas_editoriales/contenido.php on line 159
+[12-Jan-2017 05:23:49 America/Chicago] PHP Fatal error:  Call to undefined function base_url() in /home/ziikfor1/public_html/administrador/notas_editoriales/nuevo/index.php on line 186

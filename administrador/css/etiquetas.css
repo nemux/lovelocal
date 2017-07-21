@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+  width:100%;
+  margin:auto;
+}
+table{
+	/*background-color:#850708;
+	*/
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:12px;
+}
+
+.purple{
+	border-collapse:collapse;
+  	width:100%;
+	/*
+  border:2px solid #9B59B6;
+  */
+}
+
+.purple thead{
+	background:#054a6d;
+}
+
+thead{
+  color:white;
+}
+thead,th{
+  text-align:center;
+  /*
+  padding:5px 0;
+  */
+}
+table th{
+	/*background-color:#850708;
+	*/
+	/*
+	background-image:url(../images/barra_th.jpg);
+	background-repeat:repeat-x;
+	*/
+	background-color:#054a6d;
+	border-right:#FFFFFF 1px solid;
+	border-bottom:#FFFFFF 1px solid;
+	color:#FFFFFF;
+	/*
+	white-space:nowrap;
+	*/
+	height:30px;
+	padding:5px;
+	text-align:center;
+}
+
+table td{
+	background-color:#F8F8F8;
+	color:#000000;
+	padding:5px;	
+}
+table td input{
+	margin-top:7px;
+}
+textarea{
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:12px;
+	height:300px;
+	padding-left:3px;
+}
+a{
+	text-decoration:none;
+}
+a img{
+	border:0;
+}
+td a{
+	color:#163055;
+	font-weight:bold;
+}
+.fixed{
+  top:0;
+  position:fixed;
+  width:auto;
+  display:none;
+  border:none;
+}

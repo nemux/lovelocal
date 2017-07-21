@@ -1,0 +1,8 @@
+[12-Jan-2017 12:30:48 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/ziikfor1/public_html/administrador/js/filemanager/dialog.php on line 478
+[12-Jan-2017 12:30:48 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/ziikfor1/public_html/administrador/js/filemanager/dialog.php on line 478
+[12-Jan-2017 12:30:48 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/ziikfor1/public_html/administrador/js/filemanager/dialog.php on line 487
+[12-Jan-2017 12:30:48 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/ziikfor1/public_html/administrador/js/filemanager/dialog.php on line 987
+[12-Jan-2017 12:34:53 Europe/Rome] PHP Warning:  scandir(../source/): failed to open dir: No such file or directory in /home/ziikfor1/public_html/administrador/js/filemanager/dialog.php on line 478
+[12-Jan-2017 12:34:53 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/ziikfor1/public_html/administrador/js/filemanager/dialog.php on line 478
+[12-Jan-2017 12:34:53 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/ziikfor1/public_html/administrador/js/filemanager/dialog.php on line 487
+[12-Jan-2017 12:34:53 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/ziikfor1/public_html/administrador/js/filemanager/dialog.php on line 987

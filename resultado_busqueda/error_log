@@ -1,0 +1,13 @@
+[15-Jun-2017 16:25:11 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 4
+[15-Jun-2017 16:25:11 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 7
+[15-Jun-2017 16:25:11 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 8
+[15-Jun-2017 16:25:26 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 4
+[15-Jun-2017 16:25:26 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 7
+[15-Jun-2017 16:25:26 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 8
+[15-Jun-2017 16:25:39 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 4
+[15-Jun-2017 16:25:39 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 7
+[15-Jun-2017 16:25:39 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 8
+[15-Jun-2017 16:25:39 UTC] PHP Notice:  Undefined variable: total_paginas in /home/ziikfor/public_html/resultado_busqueda/index.php on line 367
+[15-Jun-2017 19:57:28 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 4
+[15-Jun-2017 19:57:28 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 7
+[15-Jun-2017 19:57:28 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/resultado_busqueda/index.php on line 8

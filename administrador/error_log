@@ -1,0 +1,7 @@
+[19-Jul-2016 01:02:42 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ziikfor1/public_html/administrador/actualizar_notas_personales.php on line 21
+[19-Jul-2016 01:03:49 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ziikfor1/public_html/administrador/actualizar_notas_personales.php on line 21
+[19-Jul-2016 01:34:17 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ziikfor1/public_html/administrador/actualizar_notas_personales.php on line 21
+[19-Jul-2016 01:35:24 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ziikfor1/public_html/administrador/actualizar_notas_personales.php on line 21
+[19-Jul-2016 01:36:09 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ziikfor1/public_html/administrador/actualizar_notas_personales.php on line 21
+[19-Jul-2016 01:54:41 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ziikfor1/public_html/administrador/actualizar_notas_personales.php on line 21
+[20-Jul-2016 23:02:13 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ziikfor1/public_html/administrador/actualizar_notas_personales.php on line 21

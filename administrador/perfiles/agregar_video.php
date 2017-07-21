@@ -1,0 +1,30 @@
+<?
+include("../php/config.php");
+include("../php/func.php");
+include("../php/func_bd.php");
+$p_numero=isset($_POST['numero']) ? $_POST['numero']*1 : "";
+$p_registro=isset($_POST['registro']) ? $_POST['registro']*1 : "";
+if(!empty($p_numero)):
+	if(!empty($p_registro)):
+		$campo=$p_registro.$p_numero;
+	else:
+		$campo=$p_numero;
+	endif;
+	?>
+	<fieldset>
+	<legend>Video <?=$p_numero?></legend>
+	<table border="0" cellpadding="3" cellspacing="1" width="100%" align="left" class="text_gral" id="tbl_video<?=$campo?>">
+		<tr>
+         <td>Título</td>
+         <td><input type="text" name="titulo_video<?=$campo?>" style="width:90%;" maxlength="255"></td>
+      </tr>   
+      <tr>
+         <td>Video</td>
+         <td><input type="text" name="video<?=$campo?>" style="width:100%;" maxlength="255"> Ej. https://www.youtube.com/watch?v=t8IO9Izi5xo</td>
+         </td>
+      </tr>
+	</table>   
+	</fieldset>
+	<?
+endif;
+?>

@@ -1,0 +1,4 @@
+[18-Jul-2016 17:48:51 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ziikfor1/public_html/administrador/clientes/eliminar/index.php on line 20
+[18-Jul-2016 17:49:31 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ziikfor1/public_html/administrador/clientes/eliminar/index.php on line 20
+[18-Jul-2016 17:54:39 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ziikfor1/public_html/administrador/clientes/eliminar/index.php on line 28
+[28-Jul-2016 15:32:13 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ziikfor1/public_html/administrador/clientes/eliminar/index.php on line 28

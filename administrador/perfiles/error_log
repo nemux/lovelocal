@@ -1,0 +1,6 @@
+[15-Jun-2017 19:52:06 UTC] PHP Notice:  Undefined index: s_id_usuario in /home/ziikfor/public_html/administrador/perfiles/index.php on line 4
+[15-Jun-2017 19:52:06 UTC] PHP Notice:  Undefined index: s_tipo_usuario in /home/ziikfor/public_html/administrador/perfiles/index.php on line 5
+[15-Jun-2017 19:52:06 UTC] PHP Notice:  Undefined index: s_altas in /home/ziikfor/public_html/administrador/perfiles/index.php on line 6
+[15-Jun-2017 19:52:06 UTC] PHP Notice:  Undefined index: s_bajas in /home/ziikfor/public_html/administrador/perfiles/index.php on line 7
+[15-Jun-2017 19:52:06 UTC] PHP Notice:  Undefined index: s_actualizaciones in /home/ziikfor/public_html/administrador/perfiles/index.php on line 8
+[15-Jun-2017 19:52:06 UTC] PHP Notice:  Undefined index: s_reportes in /home/ziikfor/public_html/administrador/perfiles/index.php on line 9

@@ -1,0 +1,19 @@
+[17-Nov-2016 08:11:14 Mexico/General] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ziikfor1/public_html/inc/ajax_agregar_evaluacion.php on line 52
+[15-Jun-2017 19:57:47 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 4
+[15-Jun-2017 19:57:47 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 5
+[15-Jun-2017 19:57:47 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 6
+[15-Jun-2017 19:59:30 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 4
+[15-Jun-2017 19:59:30 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 5
+[15-Jun-2017 19:59:30 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 6
+[15-Jun-2017 20:01:20 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 4
+[15-Jun-2017 20:01:20 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 5
+[15-Jun-2017 20:01:20 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 6
+[15-Jun-2017 20:03:00 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 4
+[15-Jun-2017 20:03:00 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 5
+[15-Jun-2017 20:03:00 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 6
+[15-Jun-2017 20:03:15 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 4
+[15-Jun-2017 20:03:15 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 5
+[15-Jun-2017 20:03:15 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 6
+[15-Jun-2017 20:05:05 UTC] PHP Notice:  Undefined index: s_id_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 4
+[15-Jun-2017 20:05:05 UTC] PHP Notice:  Undefined index: s_usuario_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 5
+[15-Jun-2017 20:05:05 UTC] PHP Notice:  Undefined index: s_password_cliente in /home/ziikfor/public_html/inc/ajax_generar-cupon-promocion.php on line 6
